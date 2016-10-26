@@ -1,0 +1,35 @@
+[33mcommit 1690f5e3c24f600079e3bc80522980cdef0178bc[m
+Author: Fingal <fingal.13@gmail.com>
+Date:   Sun Oct 23 13:41:14 2016 +0900
+
+    remove test.txt
+
+[33mcommit 1eaec5551c3c8aa4908889ce86ae0c40d60c84ff[m
+Author: Fingal <fingal.13@gmail.com>
+Date:   Sun Oct 23 13:40:43 2016 +0900
+
+    add test.txt
+
+[33mcommit 38f7b04c45c8a0a6f5003c04ff5454a36699e67b[m
+Author: Fingal <fingal.13@gmail.com>
+Date:   Sun Oct 23 13:25:36 2016 +0900
+
+    git tracks changes
+
+[33mcommit e561dcc3c501b52dc1bd2a6297baec1c762f4cfe[m
+Author: Fingal <fingal.13@gmail.com>
+Date:   Fri Oct 21 18:01:59 2016 +0900
+
+    append GPL
+
+[33mcommit ea01d33a6c318f9ae9d6a111d0a4902e18d384ac[m
+Author: Fingal <fingal.13@gmail.com>
+Date:   Fri Oct 21 18:00:00 2016 +0900
+
+    add distributed
+
+[33mcommit 80967b930fd3584ecd89625d97024a326fec7cbd[m
+Author: Fingal <fingal.13@gmail.com>
+Date:   Fri Oct 21 17:54:03 2016 +0900
+
+    wrote a readme file
